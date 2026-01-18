@@ -42,7 +42,7 @@ TestNG
 
 ---
 
-##⚙️ Key Features
+## ⚙️ Key Features
 TestNG annotations and assertions
 Selenium WebDriver feature demonstrations
 Page Object Model (POM) implementation
@@ -53,7 +53,7 @@ Detailed TestNG HTML & XML reports
 
 ---
 
-##▶️ How to Run the Project
+## ▶️ How to Run the Project
 Clone the repository
 Import into Eclipse as Existing Maven Project
 Update Maven dependencies
@@ -64,14 +64,14 @@ Any individual TestNG class
 
 ---
 
-##📊 Reporting
+## 📊 Reporting
 Default TestNG HTML reports
 Reports generated under test-output/ folder
 JUnit-style reports available under junitreports
 
 ---
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 Strong understanding of TestNG framework
 Practical Selenium automation knowledge
 Experience with Listeners and POM
@@ -80,6 +80,6 @@ Git-based version control
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Shardul Atemkar
 GitHub: https://github.com/shardulatemkar-coder
