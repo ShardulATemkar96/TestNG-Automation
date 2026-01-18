@@ -39,23 +39,28 @@ TestNG
 ├── testng.xml                      → TestNG suite configuration
 └── README.md
 ```
-⚙️ Key Features
+
+##⚙️ Key Features
+
 TestNG annotations and assertions
 
-Selenium WebDriver automation examples
+Selenium WebDriver feature demonstrations
 
-Page Object Model (POM)
+Page Object Model (POM) implementation
 
 TestNG Listeners
 
-Maven-based dependency management
+Screenshot capture on execution
 
-Git-based version control
+Maven dependency management
 
-▶️ How to Run the Tests
+Detailed TestNG HTML & XML reports
+
+##▶️ How to Run the Project
+
 Clone the repository
 
-Import the project into Eclipse as a Maven Project
+Import into Eclipse as Existing Maven Project
 
 Update Maven dependencies
 
@@ -64,24 +69,29 @@ Run:
 testng.xml
 OR
 
-Any individual TestNG test class
+Any individual TestNG class
 
-📊 Reporting
-TestNG generates execution reports automatically
+##📊 Reporting
 
-Reports are available after test execution
+Default TestNG HTML reports
 
-🎯 Learning Outcomes
-Practical understanding of TestNG
+Reports generated under test-output/ folder
 
-Hands-on Selenium automation
+JUnit-style reports available under junitreports
 
-Listener implementation
+##🎯 Learning Outcomes
 
-POM design pattern
+Strong understanding of TestNG framework
 
-Maven project structure
+Practical Selenium automation knowledge
 
-👨‍💻 Author
+Experience with Listeners and POM
+
+Hands-on Maven project setup
+
+Git-based version control
+
+##👨‍💻 Author
+
 Shardul Atemkar
-GitHub: https://github.com/ShardulATemkar96
+GitHub: https://github.com/shardulatemkar-coder
