@@ -40,6 +40,8 @@ TestNG
 └── README.md
 ```
 
+---
+
 ##⚙️ Key Features
 
 TestNG annotations and assertions
@@ -56,6 +58,8 @@ Maven dependency management
 
 Detailed TestNG HTML & XML reports
 
+---
+
 ##▶️ How to Run the Project
 
 Clone the repository
@@ -71,6 +75,8 @@ OR
 
 Any individual TestNG class
 
+---
+
 ##📊 Reporting
 
 Default TestNG HTML reports
@@ -78,6 +84,8 @@ Default TestNG HTML reports
 Reports generated under test-output/ folder
 
 JUnit-style reports available under junitreports
+
+---
 
 ##🎯 Learning Outcomes
 
@@ -90,6 +98,8 @@ Experience with Listeners and POM
 Hands-on Maven project setup
 
 Git-based version control
+
+---
 
 ##👨‍💻 Author
 
